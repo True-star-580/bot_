@@ -1,4 +1,4 @@
-# Creatting a Chatbot from Scratch
+# Creating a Chatbot from Scratch
 Creating a customer support chatbot for handling inquiries related to beauty products on Amazon involves a series of structured steps to ensure that the chatbot effectively meets the needs of the users. Here's a comprehensive introduction, including objectives, business understanding, and an overview of the project flow according to the CRISP-DM methodology (Cross-Industry Standard Process for Data Mining), with a focus on Natural Language Processing (NLP) technologies.
 
 ### Introduction and Objectives
